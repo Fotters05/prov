@@ -1,0 +1,14 @@
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\Provodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\Provodnik.AssemblyInfoInputs.cache
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\Provodnik.AssemblyInfo.cs
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\Provodnik.csproj.CoreCompileInputs.cache
+C:\Users\Fotters\source\repos\Provodnik\bin\Debug\net7.0\Provodnik.exe
+C:\Users\Fotters\source\repos\Provodnik\bin\Debug\net7.0\Provodnik.deps.json
+C:\Users\Fotters\source\repos\Provodnik\bin\Debug\net7.0\Provodnik.runtimeconfig.json
+C:\Users\Fotters\source\repos\Provodnik\bin\Debug\net7.0\Provodnik.dll
+C:\Users\Fotters\source\repos\Provodnik\bin\Debug\net7.0\Provodnik.pdb
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\Provodnik.dll
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\refint\Provodnik.dll
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\Provodnik.pdb
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\Provodnik.genruntimeconfig.cache
+C:\Users\Fotters\source\repos\Provodnik\obj\Debug\net7.0\ref\Provodnik.dll
